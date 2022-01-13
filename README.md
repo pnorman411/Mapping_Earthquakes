@@ -4,7 +4,7 @@ An interactive map of earthquake data was created through the use of JavaScript,
 
 ## Streets View
 
-![StreetMap](https://user-images.githubusercontent.com/90982811/149267434-732e908a-4228-4bca-a5fa-47abb5eba2a1.jpg)
+![StreetMap](https://user-images.githubusercontent.com/90982811/149267606-cb1fba41-be6a-4d09-9fb1-152f770598a5.jpg)
 
 ## Satellite View
 
